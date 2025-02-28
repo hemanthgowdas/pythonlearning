@@ -10,5 +10,5 @@ class Solution:
             return False    
     
 sol = Solution()
-result = sol.isPalindrome(125668)
+result = sol.isPalindrome(121)
 print(result)
